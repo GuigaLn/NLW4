@@ -1,0 +1,32 @@
+[
+  {
+    "type": "body",
+    "description": "Realize treino, diversifique!",
+    "amount": 180
+  },
+  {
+    "type": "body",
+    "description": "Realize treino, diversifique!",
+    "amount": 180
+  },
+  {
+    "type": "body",
+    "description": "Realize treino, diversifique!",
+    "amount": 180
+  },
+  {
+    "type": "eye",
+    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
+    "amount": 50
+  }
+]
